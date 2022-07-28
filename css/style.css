@@ -331,3 +331,21 @@ nav .fa-solid{
     padding: 18px 0;
 
 }
+
+
+/* -- up ---- */
+.up{
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    bottom: 8%;
+    right: 4%;
+    z-index: 3;
+
+
+}
+.fa-space-awesome{
+    color:GoldenRod;
+    font-size: 80px;
+    border: none;
+}
